@@ -1,2 +1,2 @@
 git is a free distributed software.
-git tracks changes
+git tracks changes of files
